@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\testGithub\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "F:\\testGitHubQuyen\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "F:\\testGithub\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "F:\\testGitHubQuyen\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\testGithub\\ConsoleApp1\\obj\\",
+      "outputPath": "F:\\testGitHubQuyen\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
